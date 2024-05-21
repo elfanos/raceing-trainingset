@@ -1,0 +1,71 @@
+{
+    "date": "2024-05-11",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Ascot",
+            "biggestGameType": "Thoroughbred",
+            "countryCode": "UK",
+            "trackChanged": false,
+            "sport": "Horse Racing",
+            "races": [
+                {
+                    "id": "R1",
+                    "status": "completed",
+                    "startTime": "2024-05-11T14:00:00Z",
+                    "number": 1
+                },
+                {
+                    "id": "R2",
+                    "status": "completed",
+                    "startTime": "2024-05-11T14:30:00Z",
+                    "number": 2
+                }
+            ]
+        }
+    ],
+    "games": {
+        "V75": [
+            {
+                "id": "V75_2024-05-11_27_5",
+                "status": "results",
+                "startTime": "hola",
+                "scheduledStartTime": "hola",
+                "tracks": [
+                    27
+                ],
+                "races": [
+                    "2024-05-11_27_5"
+                ],
+                "jackpotAmount": 18609579,
+                "estimatedJackpot": 44000000,
+                "addOns": [
+                    "boost"
+                ],
+                "returnToPlayer": 65,
+                "newBettingSystem": true
+            }
+        ],
+        "V65": [
+            {
+                "id": "V75_2024-05-11_27_5",
+                "status": "results",
+                "startTime": "hola",
+                "scheduledStartTime": "hola",
+                "tracks": [
+                    27
+                ],
+                "races": [
+                    "2024-05-11_27_5"
+                ],
+                "jackpotAmount": 18609579,
+                "estimatedJackpot": 44000000,
+                "addOns": [
+                    "boost"
+                ],
+                "returnToPlayer": 65,
+                "newBettingSystem": true
+            }
+        ]
+    }
+}
