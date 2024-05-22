@@ -40,7 +40,7 @@ func App() {
 	racingInfo := racinginfo.NewRaceInfoHandler(apiController)
 	fmt.Println(racingInfo)
 
-	date := "2024-05-11"
+	date := "2024-05-18"
 	fetchedRacingInfo, err := racingInfo.FetchRacingInfo(date)
 	if err != nil {
 		fmt.Printf("Error fetching racing info: %v", err)
